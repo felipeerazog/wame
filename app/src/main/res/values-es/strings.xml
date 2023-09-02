@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="phone_number">Número de teléfono</string>
+    <string name="country">Código del país</string>
+    <string name="hello">¡Hola!</string>
+    <string name="welcome_description">te permite enviar mensajes de WhatsApp sin tener que guardar el número de teléfono en sus contactos.</string>
+    <string name="lets_go">¡Comencemos!</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">Wame</string>
+    <string name="phone_number">Phone number</string>
+    <string name="country">Country code</string>
+    <string name="hello">Hello!</string>
+    <string name="welcome_description">let you send WhatsApp messages without saving the phone number in your contacts.</string>
+    <string name="lets_go">Let\'s go!</string>
+</resources>
